@@ -12,11 +12,20 @@ This repo contains all my work for this specialization of [Deep Learning course 
 
 > Course 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
 
-  * Week 1-1 :
-  * Week 1-2 :
-  * Week 1-3 :
-  * Week 2-1 :
+  * Week 1-1 : [initialization](https://github.com/jjone36/Coursera_deeplearning_ai/blob/master/course_2_Impriving%20Deep%20Neural%20Networks/1.%20Initialization.ipynb)
+  * Week 1-2 : [Regularization v2](https://github.com/jjone36/Coursera_deeplearning_ai/blob/master/course_2_Impriving%20Deep%20Neural%20Networks/2.%20Regularization%20v2.ipynb)
+  * Week 1-3 : [Gradient Checking v1](https://github.com/jjone36/Coursera_deeplearning_ai/blob/master/course_2_Impriving%20Deep%20Neural%20Networks/3.%20Gradient%20Checking%20v1.ipynb)
+  * Week 2-1 : [Optimization methods](https://github.com/jjone36/Coursera_deeplearning_ai/blob/master/course_2_Impriving%20Deep%20Neural%20Networks/4.%20Optimization%20methods.ipynb)
+  * Week 3-1 : [Tensorflow Tutorial]()
 
 > Course 3: Structuring Machine Learning Projects
 
-  * Week 1-1:
+> Course 4: Convolutional Neural Networks
+
+  * Week 1-1 :
+  * Week 2-1 :
+
+> Course 5: Sequence Models
+
+  * Week 1-1 :
+  * Week 2-1 :
