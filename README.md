@@ -1,5 +1,5 @@
 # coursera_deeplearning_ai
-This repo contains all my work for this specialization of [Deep Learning course on Coursera](https://www.coursera.org/specializations/deep-learning?authMode=login)
+This repo contains all my work for this specialization of Andrew Ng's [deep learning course](https://www.coursera.org/specializations/deep-learning?authMode=login) on [Coursera](https://www.coursera.org/)
 
 
 > Course 1: Neural Networks and Deep Learning
@@ -16,13 +16,14 @@ This repo contains all my work for this specialization of [Deep Learning course 
   * Week 1-2 : [Regularization v2](https://github.com/jjone36/Coursera_deeplearning_ai/blob/master/course_2_Impriving%20Deep%20Neural%20Networks/2.%20Regularization%20v2.ipynb)
   * Week 1-3 : [Gradient Checking v1](https://github.com/jjone36/Coursera_deeplearning_ai/blob/master/course_2_Impriving%20Deep%20Neural%20Networks/3.%20Gradient%20Checking%20v1.ipynb)
   * Week 2-1 : [Optimization methods](https://github.com/jjone36/Coursera_deeplearning_ai/blob/master/course_2_Impriving%20Deep%20Neural%20Networks/4.%20Optimization%20methods.ipynb)
-  * Week 3-1 : [Tensorflow Tutorial]()
+  * Week 3-1 : [Tensorflow Tutorial](https://github.com/jjone36/Coursera_deeplearning_ai/blob/master/course_2_Impriving%20Deep%20Neural%20Networks/5.%20Tensorflow%20Tutorial.ipynb)
 
 > Course 3: Structuring Machine Learning Projects
 
 > Course 4: Convolutional Neural Networks
 
-  * Week 1-1 :
+  * Week 1-1 : [Convolution model: Step by Step v2]()
+  * Week 1-1 : [Convolution model: Application v1]()
   * Week 2-1 :
 
 > Course 5: Sequence Models
