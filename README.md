@@ -26,10 +26,14 @@ This repo contains all my work for this specialization of Andrew Ng's [deep lear
   * Week 1-1 : [Convolution model: Application v1](https://github.com/jjone36/Coursera_deeplearning_ai/blob/master/course_4_Convolutional%20Neural%20Networks/2.%20Convolution%20model-Application-v1.ipynb)
   * Week 2-1 : [Keras Tutorial-Happy House v2](https://github.com/jjone36/Coursera_deeplearning_ai/blob/master/course_4_Convolutional%20Neural%20Networks/3.%20Keras%20Tutorial-Happy%20House%20v2.ipynb)
   * Week 2-2 : [Residual Networks v2](https://github.com/jjone36/Coursera_deeplearning_ai/blob/master/course_4_Convolutional%20Neural%20Networks/4.%20Residual%20Networks%20v2.ipynb)
-  * week 3-1 : []
-
+  * Week 3 : [Autonomous driving application-Car detection-v3](https://github.com/jjone36/Coursera_deeplearning_ai/blob/master/course_4_Convolutional%20Neural%20Networks/5.%20Autonomous%20driving%20application-Car%20detection-v3.ipynb)
+  * Week 4-1 : [Art Generation with Neural Style Transfer-v2](https://github.com/jjone36/Coursera_deeplearning_ai/blob/master/course_4_Convolutional%20Neural%20Networks/6.%20Art%20Generation%20with%20Neural%20Style%20Transfer-v2.ipynb)
+  * Week 4-2 : [Face Recognition for the Happy House-v3](https://github.com/jjone36/Coursera_deeplearning_ai/blob/master/course_4_Convolutional%20Neural%20Networks/7.%20Face%20Recognition%20for%20the%20Happy%20House-v3.ipynb)
 
 > Course 5: Sequence Models
 
   * Week 1-1 :
+  * Week 1-2 :
+  * Week 1-3 :
+  * Week 2-1 :
   * Week 2-1 :
