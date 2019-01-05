@@ -24,7 +24,10 @@ This repo contains all my work for this specialization of Andrew Ng's [deep lear
 
   * Week 1-1 : [Convolution model: Step by Step v2](https://github.com/jjone36/Coursera_deeplearning_ai/blob/master/course_4_Convolutional%20Neural%20Networks/1.%20Convolution%20model-Step%20by%20Step-v2.ipynb)
   * Week 1-1 : [Convolution model: Application v1](https://github.com/jjone36/Coursera_deeplearning_ai/blob/master/course_4_Convolutional%20Neural%20Networks/2.%20Convolution%20model-Application-v1.ipynb)
-  * Week 2-1 : 
+  * Week 2-1 : [Keras Tutorial-Happy House v2](https://github.com/jjone36/Coursera_deeplearning_ai/blob/master/course_4_Convolutional%20Neural%20Networks/3.%20Keras%20Tutorial-Happy%20House%20v2.ipynb)
+  * Week 2-2 : [Residual Networks v2](https://github.com/jjone36/Coursera_deeplearning_ai/blob/master/course_4_Convolutional%20Neural%20Networks/4.%20Residual%20Networks%20v2.ipynb)
+  * week 3-1 : []
+
 
 > Course 5: Sequence Models
 
