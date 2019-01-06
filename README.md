@@ -32,8 +32,11 @@ This repo contains all my work for this specialization of Andrew Ng's [deep lear
 
 > Course 5: Sequence Models
 
-  * Week 1-1 :
-  * Week 1-2 :
-  * Week 1-3 :
+  * Week 1-1 : [Building a Recurrent Neural Network-Step by Step-v3](https://github.com/jjone36/Coursera_deeplearning_ai/blob/master/course_5_Sequence%20Models/1.%20Building%20a%20Recurrent%20Neural%20Network-Step%20by%20Step-v3.ipynb)
+  * Week 1-2 : [Dinosaurus Island-Character level language model final-v3](https://github.com/jjone36/Coursera_deeplearning_ai/blob/master/course_5_Sequence%20Models/2.%20Dinosaurus%20Island-Character%20level%20language%20model%20final-v3.ipynb)
+  * Week 1-3 : [Improvise a Jazz Solo with an LSTM Network-v3](https://github.com/jjone36/Coursera_deeplearning_ai/blob/master/course_5_Sequence%20Models/3.%20Improvise%20a%20Jazz%20Solo%20with%20an%20LSTM%20Network-v3.ipynb)
+  * Week 2-1 : []
   * Week 2-1 :
-  * Week 2-1 :
+  * week 3-1 :
+  * week 3-2 :
+  
