@@ -37,5 +37,5 @@ This repo contains all my work for this specialization of Andrew Ng's [deep lear
   * Week 1-3 : [Improvise a Jazz Solo with an LSTM Network v3](https://github.com/jjone36/Coursera_deeplearning_ai/blob/master/course_5_Sequence%20Models/3.%20Improvise%20a%20Jazz%20Solo%20with%20an%20LSTM%20Network-v3.ipynb)
   * Week 2-1 : [Operations on word vectors v2](https://github.com/jjone36/Coursera_deeplearning_ai/blob/master/course_5_Sequence%20Models/4.%20Operations%20on%20word%20vectors-v2.ipynb)
   * Week 2-1 : [Emojify v2](https://github.com/jjone36/Coursera_deeplearning_ai/blob/master/course_5_Sequence%20Models/5.%20Emojify-v2.ipynb)
-  * week 3-1 :
-  * week 3-2 :
+  * week 3-1 : [Neural machine translation with attention-v4](https://github.com/jjone36/Coursera_deeplearning_ai/blob/master/course_5_Sequence%20Models/6.%20Neural%20machine%20translation%20with%20attention-v4.ipynb)
+  * week 3-2 : [Trigger word detection-v1](https://github.com/jjone36/Coursera_deeplearning_ai/blob/master/course_5_Sequence%20Models/7.%20Trigger%20word%20detection-v1.ipynb)
