@@ -1,6 +1,11 @@
 # coursera_deeplearning_ai
-This repo contains all my work for this specialization of Andrew Ng's [deep learning course](https://www.coursera.org/specializations/deep-learning?authMode=login) on [Coursera](https://www.coursera.org/)
+*: This repo contains all my work for this specialization of Andrew Ng's [deep learning course](https://www.coursera.org/specializations/deep-learning?authMode=login) on [Coursera](https://www.coursera.org/)*
 
+Andrew Ng is one of the famous heroes in the Artificial Intelligence field and his deep learning course is one of the most leading courses in data science. This course is consist of 5 sub-courses covering from basic of neural networks to convolutional neural networks and sequence models. Each course has 3 or 4 weeks of materials including the quiz and the code assignment (which was the greatest part of this course). So in total, It requires approximately 3 months with 75 hours of materials to complete all through, and I finished it in three weeks. If you'd like to know how to take this course with the most efficiency, feel free to check [this post](https://medium.com/@jiwon.jeong/how-i-finished-andrew-ngs-deep-learning-specialization-in-just-4-weeks-51818f0d452e?source=friends_link&sk=45625399a5a422927fec6e24aeb017a3).  
+
+> certifications
+
+  * [All certifications for the five courses](https://github.com/jjone36/Coursera_deeplearning_ai/tree/master/certifications)
 
 > Course 1: Neural Networks and Deep Learning
 
@@ -19,6 +24,10 @@ This repo contains all my work for this specialization of Andrew Ng's [deep lear
   * Week 3-1 : [Tensorflow Tutorial](https://github.com/jjone36/Coursera_deeplearning_ai/blob/master/course_2_Impriving%20Deep%20Neural%20Networks/5.%20Tensorflow%20Tutorial.ipynb)
 
 > Course 3: Structuring Machine Learning Projects
+  This course doesn't have the code assignment, but the quiz covers interesting case studies.
+
+  * Week 1 : [Bird recognition in the city of Peacetopia](https://github.com/jjone36/Coursera_deeplearning_ai/blob/master/course_3_Structuring%20Machine%20Learning%20Projects/Week%201%20Quiz%20-%20Bird%20recognition%20in%20the%20city%20of%20Peacetopia%20.md)
+  * Week 2 : [Autonomous driving](https://github.com/jjone36/Coursera_deeplearning_ai/blob/master/course_3_Structuring%20Machine%20Learning%20Projects/Week%202%20Quiz%20-%20Autonomous%20driving%20.md)
 
 > Course 4: Convolutional Neural Networks
 
