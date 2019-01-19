@@ -1,7 +1,9 @@
 # coursera_deeplearning_ai
 *: This repo contains all my work for this specialization of Andrew Ng's [deep learning course](https://www.coursera.org/specializations/deep-learning?authMode=login) on [Coursera](https://www.coursera.org/)*
 
-Andrew Ng is one of the famous heroes in the Artificial Intelligence field and his deep learning course is one of the most leading courses in data science. This course is consist of 5 sub-courses covering from basic of neural networks to convolutional neural networks and sequence models. Each course has 3 or 4 weeks of materials including the quiz and the code assignment (which was the greatest part of this course). So in total, It requires approximately 3 months with 75 hours of materials to complete all through, and I finished it in three weeks. If you'd like to know how to take this course with the most efficiency, feel free to check [this post](https://medium.com/@jiwon.jeong/how-i-finished-andrew-ngs-deep-learning-specialization-in-just-4-weeks-51818f0d452e?source=friends_link&sk=45625399a5a422927fec6e24aeb017a3).  
+This course is consist of 5 sub-courses covering from basic of neural networks to convolutional neural networks and sequence models. Each course has 3 or 4 weeks of materials including the quiz and the code assignment (which was the greatest part of this course).
+
+If you'd like to know how I finish this course with the most efficientcy, feel free to check [this post](https://medium.com/@jiwon.jeong/how-i-finished-andrew-ngs-deep-learning-specialization-in-just-4-weeks-51818f0d452e?source=friends_link&sk=45625399a5a422927fec6e24aeb017a3) on Medium. 
 
 > certifications
 
