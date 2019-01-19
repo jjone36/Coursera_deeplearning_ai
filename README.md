@@ -3,11 +3,12 @@
 
 This course is consist of 5 sub-courses covering from basic of neural networks to convolutional neural networks and sequence models. Each course has 3 or 4 weeks of materials including the quiz and the code assignment (which was the greatest part of this course).
 
-If you'd like to know how I finish this course with the most efficientcy, feel free to check [this post](https://medium.com/@jiwon.jeong/how-i-finished-andrew-ngs-deep-learning-specialization-in-just-4-weeks-51818f0d452e?source=friends_link&sk=45625399a5a422927fec6e24aeb017a3) on Medium. 
-
+If you'd like to know how I finish this course with the most efficientcy, feel free to check [How I Finished Andrew Ng’s Deep Learning Specialization in Just 4 Weeks](https://medium.com/@jiwon.jeong/how-i-finished-andrew-ngs-deep-learning-specialization-in-just-4-weeks-51818f0d452e?source=friends_link&sk=45625399a5a422927fec6e24aeb017a3) on Medium.
+<br>
+<br>
 > certifications
 
-  * [All certifications for the five courses](https://github.com/jjone36/Coursera_deeplearning_ai/tree/master/certifications)
+  * [Certifications for the five courses](https://github.com/jjone36/Coursera_deeplearning_ai/tree/master/certifications)
 
 > Course 1: Neural Networks and Deep Learning
 
